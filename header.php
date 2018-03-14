@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet"> 
-	<link rel="stylesheet" type="text/css" href="linearicons/style.css">
-	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<title></title>
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet"> 
+  <link rel="stylesheet" type="text/css" href="linearicons/style.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title></title>
 </head>
 <body>
-	<header>
+  <header>
       <div class="collapse bg-dark" id="navbarHeader">
         <div class="container">
           <div class="row">
