@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <head>
-  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet"> 
-  <link rel="stylesheet" type="text/css" href="linearicons/style.css">
-  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <title></title>
-</head>
-<body>
 <div class="container">
   <h3>Book Appointment</h3>
      <div class="form-group">
@@ -31,6 +20,3 @@
     </div> 
     <a href="page3.php" class="btn btn-info mr-3" role="button">page3</a><button type="button" class="btn btn-default float-right">Confirm Button</button>
 </div>
-
-</body>
-</html>
